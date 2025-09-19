@@ -1,5 +1,5 @@
 res://scenes/game_scene.tscn
 res://tilesets/game_tileset.tres
-res://scenes/characters/player/player.gd
-res://scenes/characters/player/idle_state.gd
 res://scenes/characters/player/walk_state.gd
+res://scenes/characters/player/player.gd
+res://scripts/game_input_events.gd
